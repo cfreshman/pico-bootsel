@@ -8,8 +8,7 @@ https://github.com/micropython/micropython/issues/6852#issuecomment-1350081346
   fine at least with single-core code:
   [code provided below]
 
-This simply packages that implementation as a git repo while waiting on 
-an official release
+That implementation is provided here while waiting on an official release
 
 Usage:
   import bootsel
