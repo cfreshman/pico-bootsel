@@ -1,4 +1,4 @@
-**This has been replaced by an official MicroPython implementation → [rp2.bootsel_button()](https://docs.micropython.org/en/latest/library/rp2.html?highlight=bootsel#rp2.bootsel_button)**
+**This has been replaced by an [official MicroPython implementation](https://github.com/micropython/micropython/issues/6852#issuecomment-1461099342) → [rp2.bootsel_button()](https://docs.micropython.org/en/latest/library/rp2.html?highlight=bootsel#rp2.bootsel_button)**
 ```python
 import time, rp2
 while True:
